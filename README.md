@@ -145,6 +145,7 @@ At this threshold, the Random Forest achieved approximately:
 
 Increasing the threshold from 0.50 to 0.60 substantially reduced false-positive alerts while maintaining strong fraud detection performance.
 
+![Random Forest Threshold Performance](threshold_performance.png)
 ---
 
 ## Feature Importance
@@ -161,6 +162,7 @@ Top predictive features included:
 
 Transaction amount accounted for approximately **54% of model feature importance**, while transaction hour accounted for approximately **21%**.
 
+![Random Forest Feature Importance](feature_importance.png)
 ---
 
 ## Key Findings
