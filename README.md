@@ -1,5 +1,12 @@
 # Credit Card Fraud Detection & Risk Analysis
 
+## Project Highlights
+
+**339,607 Transactions | 0.52% Fraud Rate | Random Forest | 86.5% Recall | 0.85 PR-AUC**
+
+🔗 **[View the Interactive DataLab Report]([https://www.datacamp.com/datalab/w/ccf600c6-3572-4de1-b001-78cddec9338b/edit])**
+
+---
 ## Project Overview
 
 Credit card fraud presents a challenging classification problem because fraudulent transactions represent only a small fraction of overall transaction activity.
